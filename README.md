@@ -6,7 +6,7 @@
 ## 使用说明
 ### 1、运行程序并选择包含tiff格式的文件夹
 点击exe文件之后会出现黑框，几秒后即出现运行界面  
-<img src="https://github.com/lpw007/ManualStitcher/tree/master/imgs/initial.jpg" width="150" height="150" alt="初始运行界面"/>  
+![](https://github.com/lpw007/ManualStitcher/tree/master/imgs/initial.jpg)  
 打开文件菜单，点击打开按钮选择对应的文件夹  
 <img src="https://github.com/lpw007/ManualStitcher/tree/master/imgs/openFile.jpg" width="150" height="150" alt="文件夹选择界面"/>  
 

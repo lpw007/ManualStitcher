@@ -25,7 +25,7 @@
 **e**.经过鼠标操作之后，得到最终的拼接图如下:  
 <img src="https://github.com/lpw007/ManualStitcher/tree/master/imgs/stitched.jpg" width="150" height="150" alt="拼接结果"/>  
 
-### 3、标注于测量操作
+### 3、标注与测量操作
 **a**.在上一步得到拼接图之后，点击菜单栏的手动拼接完成按钮或**快捷键C**保存拼接结果，由于生成图的尺寸较大，因此需要等待几秒.  
 **b**.在上一步之后，点击**开始标注**按钮进入标注界面，使用右键可选择进行各类操作，同时缩放操作和之前一致：  
 <img src="https://github.com/lpw007/ManualStitcher/tree/master/imgs/label.jpg" width="150" height="150" alt="标注界面"/>  
